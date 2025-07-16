@@ -37,7 +37,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
             <p className={`text-sm mt-2 ${
               darkMode ? 'text-gray-400' : 'text-gray-500'
             }`}>
-              © 2024 Ajay Dhangar. All rights reserved.
+              © 2025 Ajay Dhangar. All rights reserved.
             </p>
           </div>
         </div>
